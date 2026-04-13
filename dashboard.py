@@ -326,6 +326,6 @@ def update_table(search, neighborhood, type_filter):
 
 if __name__ == "__main__":
     print("\nBoston Open Space Explorer")
-    print("Open http://127.0.0.1:8050 in your browser\n")
+    print("Open http://127.0.0.1:8050")
     app.run(debug=True)
     
